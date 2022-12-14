@@ -1,2 +1,2 @@
 # AlcoholRecognition
-Deep Learning Projekt for PUG at Gdansk Universitiy Of Technologu
+Deep Learning Projekt for PUG at Gdansk Universitiy Of Technology
